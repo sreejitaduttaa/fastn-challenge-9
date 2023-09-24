@@ -1,0 +1,108 @@
+-- import: fastn-community.github.io/footer
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/featured_post
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_1
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_2
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_3
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_4
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_5
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_6
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_7
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_8
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/posts/post_9
+
+
+-- doc-page.page: Blog
+blog: true
+full-width: true
+sidebar: false
+show-footer: true
+site-logo: $assets.files.assets.logo.png
+document-title: Blog Site
+document-description: This is challenge 9 of the fastn champion challenge
+github-url: https://github.com/sreejitaduttaa
+github-icon: true
+
+
+-- doc-page.page.hero:
+
+-- doc-page.featured-post:
+post-data: $featured_post.meta
+cta-primary: Read more
+cta-primary-url: posts/featured_post/
+
+-- end: doc-page.page.hero
+
+
+-- doc-page.page.footer:
+
+-- footer.social-sideline-footer:
+footer-links: $footer.sitemap.sections
+copyright: Copyright © 2023 - Sreejita Dutta
+twitter-logo: $assets.files.assets.twitter.svg
+twitter-url: index.html
+facebook-logo: $assets.files.assets.facebook.svg
+facebook-url: index.html
+discord-logo: $assets.files.assets.discord.svg
+discord-url: index.html
+instagram-logo: $assets.files.assets.instagram.svg
+instagram-url: index.html
+telegram-logo: $assets.files.assets.telegram.svg
+telegram-url: index.html
+site-name: Blog Site
+site-url: index.html
+site-logo: $assets.files.assets.logo.png
+logo-height: 32
+social: true
+
+Every time you post something online, you have a choice. You can either make it something that adds to the happiness levels in the world—or you can make it something that takes away. 
+
+-- end: doc-page.page.footer
+
+
+-- doc-page.page.body:
+
+**Virat Kohli: The Cricketing Legend**
+
+This blog article page offers a comprehensive and engaging look into the life and career of Virat Kohli, appealing to cricket enthusiasts, fans, and those interested in the inspiring journey of a cricket legend.
+
+-- doc-page.posts:
+
+-- doc-page.h2: Latest Blogs
+
+-- doc-page.post-card:
+post-data: $post_1.meta
+
+-- doc-page.post-card:
+post-data: $post_2.meta
+
+-- doc-page.post-card:
+post-data: $post_3.meta
+
+-- doc-page.post-card:
+post-data: $post_4.meta
+
+-- doc-page.post-card:
+post-data: $post_5.meta
+
+-- doc-page.post-card:
+post-data: $post_6.meta
+
+-- doc-page.post-card:
+post-data: $post_7.meta
+
+-- doc-page.post-card:
+post-data: $post_8.meta
+
+-- doc-page.post-card:
+post-data: $post_9.meta
+
+-- end: doc-page.posts
+
+-- doc-page.newsletter: Freakishly simple. Downright useful. Ready to make the jump?
+
+Sign up in 2 minutes
+
+
+
+-- end: doc-page.page
+

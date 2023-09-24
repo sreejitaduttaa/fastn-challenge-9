@@ -1,0 +1,38 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli's Fitness and Diet Regime: The Blueprint for Sporting Excellence
+published-on: Sep 24, 2023 at 6:10 pm
+post-image: $assets.files.assets.post6.webp
+post-url: /posts/post_6
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post6.webp
+width.fixed.px: 1200
+height.fixed.px: 900
+
+-- doc-page.markdown:
+
+**Virat Kohli's Fitness and Diet Regime: The Blueprint for Sporting Excellence**
+
+Virat Kohli, renowned for his extraordinary batting prowess, is equally celebrated for his unmatched dedication to fitness and a meticulous diet regimen. Here's a brief look at how his commitment to fitness has become a blueprint for excellence
+
+**1. Fitness as a Lifestyle:** Kohli's fitness journey transcends the boundaries of cricket. He views fitness as a way of life, which not only enhances his performance on the field but also contributes to his overall well-being.
+
+**2. Rigorous Training:** His fitness routine is a perfect blend of strength, agility, and endurance training. He relentlessly pushes his physical limits to stay in peak condition throughout the year.
+
+**3. Diet Discipline:** Kohli's diet is tailored to fuel his high-intensity workouts and demanding match schedules. He prioritizes clean eating, focusing on lean proteins, complex carbohydrates, and nutrient-rich foods.
+
+**4. Hydration:** Adequate hydration is a non-negotiable part of his routine. He emphasizes the importance of staying hydrated for peak performance and recovery.
+
+**5. Rest and Recovery:** Kohli recognizes the significance of rest and recovery in maintaining physical and mental fitness. He ensures he gets ample sleep and incorporates relaxation techniques into his routine.
+
+**6. Setting an Example:** His commitment to fitness has inspired his teammates and a generation of aspiring cricketers to prioritize their health and fitness, contributing to the overall elevation of cricketing standards.
+
+In summary, Virat Kohli's fitness and diet regime exemplify his unwavering dedication to excellence. His disciplined approach to fitness and nutrition has not only elevated his game but has also set new standards for athletes in the world of cricket and beyond. Kohli's commitment serves as a beacon of inspiration for those striving for greatness in sports and life.
+
+-- end: doc-page.post

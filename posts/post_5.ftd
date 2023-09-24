@@ -1,0 +1,38 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli's Captaincy Legacy: Leading with Passion and Purpose
+published-on: Sep 24, 2023 at 6:07 pm
+post-image: $assets.files.assets.post5.jpg
+post-url: /posts/post_5
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post5.jpg
+width.fixed.px: 1200
+height.fixed.px: 630
+
+-- doc-page.markdown:
+
+**Virat Kohli's Captaincy Legacy: Leading with Passion and Purpose**
+
+Virat Kohli's captaincy legacy in Indian cricket is a testament to his unwavering commitment, passion, and the indomitable spirit with which he led the team. Here's a brief glimpse into his impactful tenure
+
+**Historic Triumphs:** Kohli's captaincy witnessed historic victories, including India's maiden Test series win in Australia in 2018-19. His tactical astuteness and leadership were instrumental in achieving this remarkable feat.
+
+**Leading by Example:** As a captain, Kohli led from the front with his aggressive yet composed approach to batting. His remarkable consistency set the standard for the team's performance.
+
+**A Fearless Approach:** Kohli instilled a fearless attitude in his team, encouraging players to express themselves and take calculated risks, a factor that contributed to many memorable wins.
+
+**Nurturing Young Talent:** Under his guidance, young talents like Prithvi Shaw, Shubman Gill, and others were given opportunities to shine on the international stage, ensuring the team's future readiness.
+
+**Championing Fitness:** Kohli's dedication to fitness inspired his teammates to prioritize their physical well-being. The Indian team's improved fitness levels became a hallmark of his captaincy.
+
+**Setting High Standards:** Kohli's relentless pursuit of excellence demanded the best from his players, both on and off the field, setting a benchmark for professionalism in Indian cricket.
+
+In conclusion, Virat Kohli's captaincy legacy is marked by his ability to inspire, his determination to break barriers, and his passion for the game. He leaves behind a lasting impact on Indian cricket, with a generation of cricketers influenced by his leadership and a nation of fans grateful for the memorable moments he orchestrated as captain. Kohli's legacy is not just about wins and losses; it's about a captain who led with his heart, leaving an indelible mark on the sport.
+
+-- end: doc-page.post

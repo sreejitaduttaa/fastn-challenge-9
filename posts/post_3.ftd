@@ -1,0 +1,40 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli's Masterful Batting Techniques: Decoding Greatness
+published-on: Sep 24, 2023 at 6:00 pm
+post-image: $assets.files.assets.post3.jpeg
+post-url: /posts/post_3
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post3.jpeg
+width.fixed.px: 400
+height.fixed.px: 300
+
+-- doc-page.markdown:
+
+**Virat Kohli's Masterful Batting Techniques: Decoding Greatness**
+
+Virat Kohli, often hailed as a batting maestro, possesses a repertoire of techniques that make him one of the finest batsmen in contemporary cricket. Let's delve into the essence of his batting brilliance:
+
+**Impeccable Footwork:** Kohli's footwork is a thing of beauty. His precise and quick foot movements allow him to get into the perfect position to play any delivery, whether it's a searing yorker or a spinning delivery.
+
+**The Art of Balance:** Balance is the foundation of Kohli's batting. He maintains equilibrium, ensuring that he's perfectly balanced at the point of impact, enabling him to play both defensive and aggressive shots with incredible control.
+
+**Incredible Hand-Eye Coordination:** His extraordinary hand-eye coordination enables him to pick the line and length of the ball early, giving him ample time to adjust his shots accordingly.
+
+**Wide Range of Shots:** Kohli's vast range of shots allows him to dominate bowlers in all formats of the game. His cover drives, flicks, and on-drives are a treat to watch, while his ability to find gaps with precision is unmatched.
+
+**Mental Toughness:** Beyond the physical, Kohli's mental toughness sets him apart. His unwavering focus and composure under pressure make him a dependable batsman in crucial moments.
+
+**Adaptability:** Kohli has the unique ability to adapt his batting style to different formats and conditions. Whether it's Tests, ODIs, or T20s, he adjusts his game to suit the situation.
+
+**Fitness and Work Ethic:** His dedication to fitness is reflected in his agility and quick reflexes. His rigorous training regimen ensures he stays at the top of his game.
+
+In essence, Virat Kohli's batting techniques are a harmonious blend of skill, dedication, and the relentless pursuit of perfection. His ability to consistently apply these techniques on the field has not only made him a cricketing icon but also an inspiration for aspiring cricketers worldwide. Kohli's artistry with the bat is a testament to the fact that cricket is not just a sport; it's an art form, and he's a master craftsman.
+
+-- end: doc-page.post

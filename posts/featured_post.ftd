@@ -1,0 +1,39 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli: A Trailblazer in Indian Cricket
+published-on: Sep 24, 2023 at 5:46 pm
+post-image: $assets.files.assets.featured-pic.jpg
+post-url: /posts/featured-post
+author: $author.sreejita
+
+Virat Kohli, often referred to as the "Run Machine," has left an indelible mark on Indian cricket. With his incredible talent and unwavering dedication, he has contributed significantly to the sport's growth in India.
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.featured-pic.jpg
+width.fixed.px: 1200
+height.fixed.px: 800
+
+-- doc-page.markdown:
+
+**Virat Kohli: A Trailblazer in Indian Cricket**
+
+Virat Kohli, often referred to as the "Run Machine," has left an indelible mark on Indian cricket. With his incredible talent and unwavering dedication, he has contributed significantly to the sport's growth in India.
+
+- **Unparalleled Batting Prowess:** Kohli's impeccable batting technique and consistency have made him one of the world's best batsmen. His numerous centuries and record-breaking performances have set new standards.
+
+- **Captain Fantastic:** As the captain of the Indian cricket team, Kohli led by example. His passion, aggression, and tactical acumen have inspired the team to great heights, including historic Test series wins abroad.
+
+- **Inspiring the Youth:** Kohli's journey from a young cricket enthusiast to a global icon has inspired countless young cricketers across India. His dedication to fitness and relentless pursuit of excellence serve as a beacon of hope.
+
+- **Massive Fan Following:** With millions of fans worldwide, Virat Kohli has created a fanatical following known as the "Viratians." His charisma and sportsmanship resonate deeply with supporters.
+
+In summary, Virat Kohli's contributions to Indian cricket are nothing short of legendary. He has redefined the game, leading the charge for a new generation of cricketing excellence in India.
+
+Kohli's impact transcends boundaries, and his legacy in Indian cricket will endure for generations to come.
+
+-- end: doc-page.post
+
