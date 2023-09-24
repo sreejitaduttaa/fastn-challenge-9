@@ -19,8 +19,8 @@ favicon: /-/sreejitaduttaa.github.io/fastn-challenge-9/favicon.ico
 
 # Blog: /blog/
 
-- post-1: /post-1/
-  document: /posts/post_1.ftd
+;; - post-1: /post-1/
+;; document: /posts/post_1.ftd
 
 
 
