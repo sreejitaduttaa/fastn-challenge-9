@@ -15,9 +15,14 @@ favicon: /-/sreejitaduttaa.github.io/fastn-challenge-9/favicon.ico
 
 -- fastn.sitemap:
 
-# Home: index.html
-- Overview: index.html
+# Home: /
 
 # Blog: /blog/
+
+- post-1: /post-1/
+  document: /posts/post_1.ftd
+
+
+
 
 # Landing: /landing/
