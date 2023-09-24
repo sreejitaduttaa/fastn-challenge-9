@@ -1,0 +1,38 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Off the Field: Exploring Virat Kohli's Personal Life
+published-on: Sep 24, 2023 at 6:16 pm
+post-image: $assets.files.assets.post8.jpg
+post-url: /posts/post_8
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post8.jpg
+width.fixed.px: 1200
+height.fixed.px: 674
+
+-- doc-page.markdown:
+
+**Off the Field: Exploring Virat Kohli's Personal Life**
+
+Beyond the cricketing arena, Virat Kohli's personal life offers a fascinating glimpse into the man behind the iconic cricketer. Here's a brief look at the facets of his personal life:
+
+**1. A Love Story for the Ages:** Virat's marriage to Bollywood superstar Anushka Sharma captured the hearts of millions. Their love story symbolizes the fusion of two prominent worlds—cricket and entertainment.
+
+**2. Avid Dog Lover:** Virat's love for animals, particularly dogs, is well-known. He and Anushka are proud pet parents to a furry family, showcasing their compassion and care for animals.
+
+**3. Philanthropic Endeavors:** Together, Virat and Anushka have used their fame and resources to support various charitable causes. Their commitment to making a positive impact on society is evident through their philanthropic initiatives.
+
+**4. Passion for Fitness:** Off the field, Virat maintains his passion for fitness. His social media often features glimpses of his workouts and training sessions, inspiring fitness enthusiasts worldwide.
+
+**5. Business Ventures:** Kohli has ventured into the business world, with interests in fashion, fitness, and more. His entrepreneurial spirit and success off the field underscore his versatility.
+
+**6. Avid Traveler:** Virat's Instagram is a visual diary of his travels, showcasing his love for exploration and adventure. His globetrotting escapades offer a peek into his adventurous side.
+
+In summary, Virat Kohli's personal life paints a picture of a multifaceted individual who, beyond his cricketing prowess, is a devoted husband, animal lover, philanthropist, fitness enthusiast, entrepreneur, and explorer. His life off the field is a testament to his ability to strike a balance between the demands of fame and the pursuit of personal passions and meaningful endeavors. Kohli's journey continues to captivate not just cricket fans but anyone who admires a life well-lived.
+
+-- end: doc-page.post

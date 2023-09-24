@@ -1,0 +1,36 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli: The Unstoppable Rise to Cricket Stardom
+published-on: Sep 24, 2023 at 5:56 pm
+post-image: $assets.files.assets.post2.jpeg
+post-url: /posts/post_2
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post2.jpeg
+width.fixed.px: 690
+height.fixed.px: 337
+
+-- doc-page.markdown:
+
+**Virat Kohli: The Unstoppable Rise to Cricket Stardom**
+
+Virat Kohli's journey to cricket stardom is nothing short of remarkable. From a young boy with a dream to one of the most celebrated cricketers globally, his story is an inspiration to all aspiring athletes.
+
+Born on November 5, 1988, in Delhi, Kohli's love for cricket was evident from an early age. He honed his skills in the narrow lanes of West Delhi, where cricket was more than just a game—it was a way of life.
+
+Virat's early cricketing years were marked by dedication and an insatiable hunger for improvement. His exceptional talent earned him a spot in the Delhi Under-15 team, where he flourished and quickly rose through the ranks.
+
+In 2006, at just 18 years old, Kohli made his debut for the Indian Under-19 team. His performances were a glimpse of the greatness to come. He captained the U-19 team to victory in the 2008 World Cup, catching the attention of cricket enthusiasts worldwide.
+
+The call to the senior national team came in 2008, and Virat Kohli didn't disappoint. He showcased his batting prowess and remarkable consistency in all formats of the game. His first international century in 2009 against Sri Lanka marked the beginning of a glittering career.
+
+As he donned the captain's armband for India, his leadership skills flourished, and the team achieved unprecedented success, including historic wins on foreign soil.
+
+Virat Kohli's journey to cricket stardom embodies the essence of hard work, determination, and an unrelenting passion for the sport. Today, he stands as a symbol of excellence, inspiring countless aspiring cricketers to chase their dreams and reach for the stars. His story is a testament to the power of dedication and the belief that with unwavering commitment, one can achieve greatness in the world of cricket and beyond.
+
+-- end: doc-page.post

@@ -1,16 +1,23 @@
 -- import: fastn
 
--- fastn.package: <user_name>.github.io/<repo_name>
-favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
+-- fastn.package: sreejitaduttaa.github.io/fastn-challenge-9 
+favicon: /-/sreejitaduttaa.github.io/fastn-challenge-9/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/midnight-rush as doc-site
+-- fastn.dependency: fastn-community.github.io/midnight-rush
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 
--- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
--- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
--- fastn.auto-import: doc-site
+-- fastn.auto-import: fastn-community.github.io/midnight-rush/common  
+-- fastn.auto-import: fastn-community.github.io/midnight-rush as doc-page  
+-- fastn.auto-import: sreejitaduttaa.github.io/fastn-challenge-9/FASTN/ds
+-- fastn.auto-import: sreejitaduttaa.github.io/fastn-challenge-9/assets
+
 
 -- fastn.sitemap:
 
 # Home: index.html
 - Overview: index.html
 
+# Blog: /blog/
+
+# Landing: /landing/

@@ -1,11 +1,7 @@
 -- import: fastn-community.github.io/footer
 
--- doc-page.page: Click on [Blog](sreejitaduttaa.github.io/fastn-challenge-9/blog) to discover my blogs!
-document-title:  Blog Site
-document-description: This is challenge 9 of the fastn champion challenge
+-- doc-page.page:  This is the landing page! 
 site-logo: $assets.files.assets.logo.png
-github-url: https://github.com/sreejitaduttaa
-github-icon: true
 
 -- doc-page.page.footer:
 
@@ -33,6 +29,3 @@ Every time you post something online, you have a choice. You can either make it 
 -- end: doc-page.page.footer
 
 -- end: doc-page.page
-
-
-

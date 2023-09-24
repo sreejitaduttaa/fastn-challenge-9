@@ -1,0 +1,40 @@
+-- import: sreejitaduttaa.github.io/fastn-challenge-9/author
+
+-- common.post-meta meta: Virat Kohli's Records and Achievements: A Trail of Excellence
+published-on: Sep 24, 2023 at 6:05 pm
+post-image: $assets.files.assets.post4.jpeg
+post-url: /posts/post_4
+author: $author.sreejita
+
+
+-- doc-page.post: 
+meta: $meta
+
+-- doc-page.image: 
+src: $assets.files.assets.post4.jpeg
+width.fixed.px: 1200
+height.fixed.px: 800
+
+-- doc-page.markdown:
+
+**Virat Kohli's Records and Achievements: A Trail of Excellence**
+
+Virat Kohli, the modern-day cricketing colossus, has carved his name in the annals of the sport's history with a trail of astonishing records and achievements. Here's a snapshot of his extraordinary journey:
+
+**Centuries Beyond Count:** Kohli's knack for centuries is awe-inspiring. With over 70 international centuries, he stands as one of the most prolific century-makers in the world.
+
+**The Chase Master:** Kohli's ability to chase down monumental targets is legendary. His nerveless approach in high-pressure situations has made him one of cricket's finest chasers.
+
+**Prolific Run-Scorer:** With thousands of runs in both Test and One-Day Internationals (ODIs), Kohli consistently reigns supreme in the batting department, setting new benchmarks for run accumulation.
+
+**Captaincy Brilliance:** As the captain of the Indian cricket team, Kohli steered his side to historic victories, including India's maiden Test series win in Australia.
+
+**Record-Shattering Speed:** Kohli's journey to milestones like 8,000, 9,000, and 10,000 ODI runs was swift, showcasing his unwavering consistency and hunger for success.
+
+**Trophies and Accolades:** His trophy cabinet boasts several ICC Cricketer of the Year awards and multiple Rajiv Gandhi Khel Ratna Awards, India's highest sporting honor.
+
+**Fitness Icon:** Beyond his cricketing feats, Kohli's dedication to fitness has redefined the expectations of cricketers worldwide, emphasizing the importance of athleticism in the sport.
+
+In conclusion, Virat Kohli's records and achievements are a testament to his unwavering commitment to excellence and his relentless pursuit of greatness in the world of cricket. As he continues to push boundaries and reach new milestones, he remains a symbol of inspiration for aspiring cricketers and sports enthusiasts around the globe. Kohli's legacy is etched in the cricketing pantheon, where records and achievements tell the story of his unparalleled journey.
+
+-- end: doc-page.post
