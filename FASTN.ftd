@@ -15,7 +15,7 @@ favicon: /-/sreejitaduttaa.github.io/fastn-challenge-9/favicon.ico
 
 -- fastn.sitemap:
 
-# Home: /
+# Home: index.html
 
 # Blog: /blog/
 
