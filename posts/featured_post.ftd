@@ -2,7 +2,7 @@
 
 -- common.post-meta meta: Virat Kohli: A Trailblazer in Indian Cricket
 published-on: Sep 24, 2023 at 5:46 pm
-post-image: $assets.files.assets.featured-pic.jpg
+post-image: $assets.files.assets.feature.webp
 post-url: /posts/featured-post
 author: $author.sreejita
 
@@ -13,9 +13,9 @@ Virat Kohli, often referred to as the "Run Machine," has left an indelible mark 
 meta: $meta
 
 -- doc-page.image: 
-src: $assets.files.assets.featured-pic.jpg
+src: $assets.files.assets.post5.jpg
 width.fixed.px: 1200
-height.fixed.px: 800
+height.fixed.px: 630
 
 -- doc-page.markdown:
 

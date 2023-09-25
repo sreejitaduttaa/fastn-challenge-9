@@ -10,10 +10,10 @@ author: $author.sreejita
 -- doc-page.post: 
 meta: $meta
 
--- doc-page.image: 
-src: $assets.files.assets.post3.jpeg
-width.fixed.px: 400
-height.fixed.px: 300
+;; -- doc-page.image: 
+;; src: $assets.files.assets.post3.jpeg
+;; width.fixed.px: 400
+;; height.fixed.px: 300
 
 -- doc-page.markdown:
 
