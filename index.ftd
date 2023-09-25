@@ -1,6 +1,6 @@
 -- import: fastn-community.github.io/footer
 
--- doc-page.page: Click on [Blog](sreejitaduttaa.github.io/fastn-challenge-9/blog) to discover my blogs!
+-- doc-page.page: Click on `Blog` to discover my blogs!
 document-title:  Blog Site
 document-description: This is challenge 9 of the fastn champion challenge
 site-logo: $assets.files.assets.logo.png
