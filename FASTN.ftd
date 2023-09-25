@@ -6,7 +6,6 @@ favicon: /-/sreejitaduttaa.github.io/fastn-challenge-9/favicon.ico
 -- fastn.dependency: fastn-community.github.io/midnight-rush
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/button
 
 -- fastn.auto-import: fastn-community.github.io/midnight-rush/common  
 -- fastn.auto-import: fastn-community.github.io/midnight-rush as doc-page  
