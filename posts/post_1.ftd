@@ -3,7 +3,7 @@
 -- common.post-meta meta: Virat Kohli: A Record-Breaking Maestro
 published-on: Sep 24, 2023 at 5:50 pm
 post-image: $assets.files.assets.post1.webp
-;; post-url: /posts/post_1
+post-url: /posts/post_1
 author: $author.sreejita
 
 

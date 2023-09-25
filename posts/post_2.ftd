@@ -2,7 +2,7 @@
 
 -- common.post-meta meta: Virat Kohli: The Unstoppable Rise to Cricket Stardom
 published-on: Sep 24, 2023 at 5:56 pm
-post-image: $assets.files.assets.post2.jpeg
+post-image: $assets.files.assets.post2.webp
 post-url: /posts/post_2
 author: $author.sreejita
 
@@ -11,7 +11,7 @@ author: $author.sreejita
 meta: $meta
 
 -- doc-page.image: 
-src: $assets.files.assets.post2.jpeg
+src: $assets.files.assets.post2.webp
 width.fixed.px: 690
 height.fixed.px: 337
 
